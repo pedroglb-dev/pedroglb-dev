@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG — animação de texto dinâmica -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Pedro+%F0%9F%91%8B;Backend+Developer+%7C+CS+Student;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+C%23+%E2%80%A2+.NET)](https://git.io/typing-svg)
+![Matrix Banner](./assets/matrix-banner.svg)
 
 <br/>
 
