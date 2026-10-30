@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG — animação de texto dinâmica -->
-<img src="./matrix-banner.svg" alt="Matrix Banner" width="100%" />
+<img src="./assets/matrix-banner.svg" alt="Matrix Banner" width="100%" />
 
 <br/>
 
