@@ -24,11 +24,11 @@
 <h2 id="pt">🇧🇷 &nbsp;Sobre mim</h2>
 
 ```text
-🎓  Técnico em Desenvolvimento de Sistemas
-📚  Cursando Ciência da Computação — IFCE
-💼  Construindo projetos reais como dev backend
-🎯  Foco atual: APIs REST com Spring Boot & .NET
-🚀  Buscando: estágio / primeira oportunidade como desenvolvedor
+  Técnico em Desenvolvimento de Sistemas
+  Cursando Ciência da Computação — IFCE
+  Construindo projetos reais como dev backend
+  Foco atual: APIs REST com Spring Boot & .NET
+  Buscando: estágio / primeira oportunidade como desenvolvedor
 ```
 
 <h3>🛠️ &nbsp;Tech Stack</h3>
@@ -79,11 +79,11 @@
 <h2 id="en">🇺🇸 &nbsp;About me</h2>
 
 ```text
-🎓  Technical degree in Systems Development
-📚  Studying Computer Science — IFCE (Brazil)
-💼  Building real-world projects as a backend dev
-🎯  Current focus: REST APIs with Spring Boot & .NET
-🚀  Looking for: internship / first dev role
+  Technical degree in Systems Development
+  Studying Computer Science — IFCE (Brazil)
+  Building real-world projects as a backend dev
+  Current focus: REST APIs with Spring Boot & .NET
+  Looking for: internship / first dev role
 ```
 
 <h3>🛠️ &nbsp;Tech Stack</h3>
